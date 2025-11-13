@@ -32,7 +32,7 @@
 - 🤖 **[Chatbot IA](https://github.com/maynoli/chatbot-ia)** – experimentos com prompts e LLMs  
 - ⚡ **[Automação Básica](https://github.com/maynoli/automacao-basica)** – scripts simples para automatizar tarefas  
 
-*(Fixe esses projetos no topo do GitHub para dar mais destaque)*
+
 
 ---
 
