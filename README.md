@@ -23,21 +23,11 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Colab](https://img.shields.io/badge/-GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) 
-![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
-
----
-
 ### 🎯 Projetos em destaque
 - 💻 **[Aprendizados Python](https://github.com/maynoli/aprendizados-python)** – meus testes e mini-projetos para aprender Python  
 - 🤖 **[Chatbot IA](https://github.com/maynoli/chatbot-ia)** – experimentos com LLMs e prompts  
 - ⚡ **[Automação Básica](https://github.com/maynoli/automacao-basica)** – scripts simples para automatizar tarefas do dia a dia  
 
-*(fixe esses projetos no topo do GitHub para maior destaque)*
 
 ---
 
