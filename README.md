@@ -14,6 +14,10 @@
 ---
 
 ### 🌱 Atualmente aprendendo
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 - `Python` 🐍  
 - `C` 💻  
 - **Análise e Desenvolvimento de Sistemas** 📊  
@@ -24,16 +28,22 @@
 ---
 
 ### 🎯 Projetos em destaque
-- 💻 **[Aprendizados Python](https://github.com/maynoli/aprendizados-python)** – meus testes e mini-projetos para aprender Python  
-- 🤖 **[Chatbot IA](https://github.com/maynoli/chatbot-ia)** – experimentos com LLMs e prompts  
-- ⚡ **[Automação Básica](https://github.com/maynoli/automacao-basica)** – scripts simples para automatizar tarefas do dia a dia  
+- 💻 **[Aprendizados Python](https://github.com/maynoli/aprendizados-python)** – mini-projetos e testes com Python  
+- 🤖 **[Chatbot IA](https://github.com/maynoli/chatbot-ia)** – experimentos com prompts e LLMs  
+- ⚡ **[Automação Básica](https://github.com/maynoli/automacao-basica)** – scripts simples para automatizar tarefas  
 
+*(Fixe esses projetos no topo do GitHub para dar mais destaque)*
 
 ---
 
 ### 📈 Estatísticas do GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maynoli&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maynoli&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maynoli&layout=compact&theme=radical)  
+
+---
+
+### 🎉 Contador de visitas
+![Visitor Count](https://profile-counter.glitch.me/maynoli/count.svg)
 
 ---
 
@@ -43,4 +53,4 @@
 
 ---
 
-✨ _“Aprender é o primeiro passo pra criar algo que inspire outras pessoas.”_
+✨ _“Aprender é o primeiro passo pra criar algo que inspire outras pessoas.”_  
